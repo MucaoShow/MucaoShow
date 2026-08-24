@@ -1,14 +1,23 @@
-### Olá! Eu sou o Murilo Lameira 👋
+# Olá! Eu sou o Murilo Lameira 👋
 
-Sou estudante de **Engenharia de Controle e Automação** pelo SENAI e atuo transformando dados em eficiência operacional. Tenho foco em otimização de processos, análise de indicadores (KPIs) e desenvolvimento de soluções IoT para a indústria.
+Sou estudante de **Engenharia de Controle e Automação** pelo SENAI, com forte atuação na intersecção entre automação industrial, sistemas embarcados e análise de dados. 
 
-🛠️ **Minhas principais ferramentas:**
-- **Linguagens & Scripts:** Python, SQL, C++, JavaScript, PowerShell
-- **Dados & Automação:** n8n, Power BI, Google Sheets / Excel avançado
-- **IoT & Hardware:** ESP32, Arduino, MQTT, Lógica de Controle (CLPs, Sensores)
+Tenho experiência prática no desenvolvimento de soluções para aumento de eficiência operacional, variando desde a análise técnica e documentação de segurança de maquinário (NR-12) até a engenharia de dados para monitoramento de KPIs em compras e licitações.
 
-💼 **O que eu busco:** 
-Oportunidades para aplicar tecnologia na solução de problemas reais, seja através de integração de sistemas, automação de rotinas ou criação de dashboards para tomada de decisão.
+### 🚀 Áreas de Atuação
+- **Automação de Processos (RPA & Pipelines):** Criação de fluxos complexos para extração, tratamento de dados e integração de APIs, eliminando rotinas manuais.
+- **Análise de Dados e BI:** Estruturação de dados, modelagem e desenvolvimento de dashboards dinâmicos para a tomada de decisão corporativa.
+- **Sistemas Embarcados e IoT:** Programação de microcontroladores para automação de processos físicos, controle de atuadores e telemetria.
 
-📫 **Como me encontrar:**
+### 🛠️ Stack Tecnológico
+- **Linguagens & Automação:** Python, SQL, C++, JavaScript, PowerShell
+- **Dados & Integração:** n8n, Power BI, Web Scraping, REST APIs, Excel/Google Sheets
+- **Engenharia & IoT:** ESP32, Arduino IDE, Protocolo MQTT, Lógica de Controle (CLPs, Sensores)
+
+### 📂 Projetos em Destaque
+* **Pipeline de Licitações (n8n):** Automação orientada a dados que varre portais de compras do setor de energia, filtra oportunidades por escopo técnico via JavaScript e gera relatórios otimizados.
+* **Controle Térmico IoT (ESP32):** Sistema embarcado desenvolvido em C++ com integração MQTT para o controle e telemetria de módulos Peltier e sensores OneWire.
+* **Infra Checkup (PowerShell):** Script de automação para diagnóstico de integridade de hardware, memória e rede com geração de relatórios de status em HTML.
+
+📫 **Conecte-se comigo:**
 - [LinkedIn](https://www.linkedin.com/in/murilo-lameira)
