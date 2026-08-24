@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá! Eu sou o Murilo Lameira 👋
 
-<!--
-**MucaoShow/MucaoShow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Controle e Automação** pelo SENAI e atuo transformando dados em eficiência operacional. Tenho foco em otimização de processos, análise de indicadores (KPIs) e desenvolvimento de soluções IoT para a indústria.
 
-Here are some ideas to get you started:
+🛠️ **Minhas principais ferramentas:**
+- **Linguagens & Scripts:** Python, SQL, C++, JavaScript, PowerShell
+- **Dados & Automação:** n8n, Power BI, Google Sheets / Excel avançado
+- **IoT & Hardware:** ESP32, Arduino, MQTT, Lógica de Controle (CLPs, Sensores)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **O que eu busco:** 
+Oportunidades para aplicar tecnologia na solução de problemas reais, seja através de integração de sistemas, automação de rotinas ou criação de dashboards para tomada de decisão.
+
+📫 **Como me encontrar:**
+- [LinkedIn](https://www.linkedin.com/in/murilo-lameira)
