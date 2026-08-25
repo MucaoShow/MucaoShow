@@ -20,9 +20,5 @@ I am an engineering student passionate about bridging the gap between hardware a
 * **[Infra Checkup (PowerShell)](https://github.com/murilo-lameira/projeto-checkup-windows):** Automation script for hardware, memory, and network health diagnostics that generates self-contained HTML status reports.
 * **[LoL Elo Tracker (Python/SQL)](https://github.com/murilo-lameira/lol-elo-tracker):** Command-line interface (CLI) application with a clean architecture for managing relational databases of player rankings using SQLite.
 
-## 📈 GitHub Stats
-
-![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilo-lameira&show_icons=true&theme=radium&hide_border=true)
-
 ---
 📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/murilo-lameira)
