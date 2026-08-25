@@ -15,6 +15,7 @@ Tenho experiência prática no desenvolvimento de soluções para aumento de efi
 - **Engenharia & IoT:** ESP32, Arduino IDE, Protocolo MQTT, Lógica de Controle (CLPs, Sensores)
 
 ### 📂 Projetos em Destaque
+* **Gêmeo Digital & Tuning Genético (Python/ML):** Algoritmo evolutivo desenvolvido do zero para sintonia automática de controladores PID, utilizando Machine Learning para simular inércia térmica a partir de dados reais.
 * **Pipeline de Licitações (n8n):** Automação orientada a dados que varre portais de compras do setor de energia, filtra oportunidades por escopo técnico via JavaScript e gera relatórios otimizados.
 * **Controle Térmico IoT (ESP32):** Sistema embarcado desenvolvido em C++ com integração MQTT para o controle e telemetria de módulos Peltier e sensores OneWire.
 * **Infra Checkup (PowerShell):** Script de automação para diagnóstico de integridade de hardware, memória e rede com geração de relatórios de status em HTML.
