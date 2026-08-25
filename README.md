@@ -1,24 +1,30 @@
-# Olá! Eu sou o Murilo Lameira 👋
+# Hi there! I'm Murilo Lameira 👋
 
-Sou estudante de **Engenharia de Controle e Automação** pelo SENAI, com forte atuação na intersecção entre automação industrial, sistemas embarcados e análise de dados. 
+🎓 **Control & Automation Engineering Student SENAI**  
+🚀 Focused on Data-Driven Solutions, IoT, and Process Automation.
 
-Tenho experiência prática no desenvolvimento de soluções para aumento de eficiência operacional, variando desde a análise técnica e documentação de segurança de maquinário (NR-12) até a engenharia de dados para monitoramento de KPIs em compras e licitações.
+I am an engineering student passionate about bridging the gap between hardware and software. My work focuses on building embedded systems, designing automated data pipelines, and developing machine learning models to optimize industrial and software systems. 
 
-### 🚀 Áreas de Atuação
-- **Automação de Processos (RPA & Pipelines):** Criação de fluxos complexos para extração, tratamento de dados e integração de APIs, eliminando rotinas manuais.
-- **Análise de Dados e BI:** Estruturação de dados, modelagem e desenvolvimento de dashboards dinâmicos para a tomada de decisão corporativa.
-- **Sistemas Embarcados e IoT:** Programação de microcontroladores para automação de processos físicos, controle de atuadores e telemetria.
+## 🛠️ Tech Stack & Tools
 
-### 🛠️ Stack Tecnológico
-- **Linguagens & Automação:** Python, SQL, C++, JavaScript, PowerShell
-- **Dados & Integração:** n8n, Power BI, Web Scraping, REST APIs, Excel/Google Sheets
-- **Engenharia & IoT:** ESP32, Arduino IDE, Protocolo MQTT, Lógica de Controle (CLPs, Sensores)
+* **Languages:** Python, C++, JavaScript, SQL, PowerShell
+* **Data & Machine Learning:** Pandas, NumPy, Scikit-Learn, Genetic Algorithms, Digital Twins
+* **IoT & Embedded:** ESP32, MQTT, Arduino IDE, Sensor Integration (OneWire, Peltier)
+* **Automation & Tools:** n8n, Activepieces, Git/GitHub, SQLite
 
-### 📂 Projetos em Destaque
-* **Gêmeo Digital & Tuning Genético (Python/ML):** Algoritmo evolutivo desenvolvido do zero para sintonia automática de controladores PID, utilizando Machine Learning para simular inércia térmica a partir de dados reais.
-* **Pipeline de Licitações (n8n):** Automação orientada a dados que varre portais de compras do setor de energia, filtra oportunidades por escopo técnico via JavaScript e gera relatórios otimizados.
-* **Controle Térmico IoT (ESP32):** Sistema embarcado desenvolvido em C++ com integração MQTT para o controle e telemetria de módulos Peltier e sensores OneWire.
-* **Infra Checkup (PowerShell):** Script de automação para diagnóstico de integridade de hardware, memória e rede com geração de relatórios de status em HTML.
+## 📂 Featured Projects
 
-📫 **Conecte-se comigo:**
-- [LinkedIn](https://www.linkedin.com/in/murilo-lameira)
+* **[Digital Twin & Genetic Tuning (Python/ML)](https://github.com/murilo-lameira/genetic-pid-tuning):** Evolutionary algorithm built from scratch for automatic PID controller tuning, using Machine Learning to simulate thermal inertia from real IoT data.
+* **[Bidding Pipeline Automation (n8n)](https://github.com/murilo-lameira/bidding-monitor-automation):** Data-driven automation that scans energy sector procurement portals, filtering opportunities by technical scope via JavaScript and generating optimized reports.
+* **[IoT Thermal Control (ESP32)](https://github.com/murilo-lameira/Thermal-Freezer-IoT):** Embedded system developed in C++ with MQTT integration for telemetry and precise control of Peltier modules and OneWire temperature sensors.
+* **[Infra Checkup (PowerShell)](https://github.com/murilo-lameira/projeto-checkup-windows):** Automation script for hardware, memory, and network health diagnostics that generates self-contained HTML status reports.
+* **[LoL Elo Tracker (Python/SQL)](https://github.com/murilo-lameira/lol-elo-tracker):** Command-line interface (CLI) application with a clean architecture for managing relational databases of player rankings using SQLite.
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murilo-lameira&show_icons=true&theme=radium&hide_border=true" alt="Murilo's GitHub Stats" />
+</div>
+
+---
+📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/murilo-lameira)
