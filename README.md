@@ -22,9 +22,7 @@ I am an engineering student passionate about bridging the gap between hardware a
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murilo-lameira&show_icons=true&theme=radium&hide_border=true" alt="Murilo's GitHub Stats" />
-</div>
+![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilo-lameira&show_icons=true&theme=radium&hide_border=true)
 
 ---
 📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/murilo-lameira)
